@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://rodrigozucchini.github.io/aguacates-tienda/',
+    baseUrl: 'https://rodrigozucchini.github.io/aguacates-tiendita/',
   },
 }
