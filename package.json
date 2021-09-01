@@ -1,4 +1,6 @@
 {
+  
+    "homepage": "https://rodrigozucchini.github.io/aguacates-tienda/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
